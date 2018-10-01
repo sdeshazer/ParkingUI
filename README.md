@@ -1,3 +1,3 @@
 # ParkingUI
 
-Made By Tye Torres
+Made By Tye Torres and Samantha Deshazer
